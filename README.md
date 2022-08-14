@@ -28,3 +28,6 @@ Alright onto something a bit more complicated, we are tasked with building an ap
 
   ## Questions
   If you have any questions about this repo, open an issue or contact me directly @mikegonz0.dev@gmail.com. You can find more of my work at [mike-gonz0] https://github.com/mike-gonz0/).
+  
+  ## Screenshots
+![Screen Shot 2022-08-13 at 10 11 45 PM](https://user-images.githubusercontent.com/98365942/184519644-eea7996b-d0ac-4bbf-9f40-1e5eeb6ac06b.png)

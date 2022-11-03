@@ -30,4 +30,4 @@ Alright onto something a bit more complicated, we are tasked with building an ap
   If you have any questions about this repo, open an issue or contact me directly @mikegonz0.dev@gmail.com. You can find more of my work at [mike-gonz0] https://github.com/mike-gonz0/).
   
   ## Screenshots
-![Screen Shot 2022-08-13 at 10 11 45 PM](https://user-images.githubusercontent.com/98365942/184519644-eea7996b-d0ac-4bbf-9f40-1e5eeb6ac06b.png)
+<img width="1792" alt="Screenshot 2022-11-03 at 6 36 52 PM" src="https://user-images.githubusercontent.com/98365942/199849042-daf5ef46-50d8-4438-addd-ca10016dad59.png">

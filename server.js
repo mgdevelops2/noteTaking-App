@@ -3,7 +3,6 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 const htmlRoutes = require("./routes/html-routes.js");
 const apiRoutes = require("./routes/apiRoutes.js");
-const uuid = require("./helpers/uuid");
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 

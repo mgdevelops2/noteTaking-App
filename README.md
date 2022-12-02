@@ -1,7 +1,7 @@
 # HW11 - noteTaking App
   
   ## Description
-Alright onto something a bit more complicated, we are tasked with building an application called Note Taker that can be used to write and save notes using Express.js back-end and will save and retrieve note data from a JSON file. Adjusting the front-end for looks and tasked with the build out of the back end and then deploy the entire application to Heroku. 
+This is a Note Taking application that can be used to write and save notes using Express.js back-end. This app will save and retrieve note data from a local JSON file. We adjusyed the front-end for looks and tasked with the build out of the back end and then deploy the entire application to Heroku. 
   ## Table of Contents
   
   * [Installation] (#install)
